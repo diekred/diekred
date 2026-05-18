@@ -8,7 +8,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 🎮 Meu Status na Steam
 
-<img align="right" src="LINK_DO_SEU_GIF_AQUI" width="140" />
+<img align="right" src="https://tenor.com/pt-PT/view/elgatitoloves-elgatitolover-elgatito-boom-box-elgatito-boombox-gif-4377377791896539156" width="140" />
 
 [![Steam Card](https://github-readme-steam-card.vercel.app/status/?steamid=76561198996810331)](https://steamcommunity.com/profiles/76561198996810331)
 
