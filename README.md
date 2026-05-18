@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu perfil!  <img src="https://github.com/user-attachments/assets/b7f27f16-c400-42b7-b142-88dd95b1959c" width="50" />
+# Bem-vindo(a) ao meu perfil! 👋 <img src="https://github.com/user-attachments/assets/b7f27f16-c400-42b7-b142-88dd95b1959c" width="50" align="absmiddle" />
 
 ![Gamer & Dev](https://img.shields.io/badge/Gamer%20%26%20Dev-7159c1?style=flat-square) ![Estagiário](https://img.shields.io/badge/Estagiário-0366d6?style=flat-square) ![Estudante UTFPR](https://img.shields.io/badge/Estudante_UTFPR-FFB000?style=flat-square)
 
@@ -8,7 +8,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 🎮 Meu Status na Steam
 
-<a href="https://steamcommunity.com/profiles/76561198996810331"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198996810331" alt="Steam Card" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/1ab8ef04-e985-4e21-a733-2a84e03af591" width="180" />
+<a href="https://steamcommunity.com/profiles/76561198996810331"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198996810331" alt="Steam Card" align="absmiddle" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/1ab8ef04-e985-4e21-a733-2a84e03af591" width="160" align="absmiddle" />
 
 ---
 
@@ -20,7 +20,9 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 📊 Minhas Estatísticas GitHub
 
-<a href="https://github.com/diekred"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=diekred&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/0b16067a-8922-4d2a-9416-962218e1197b" width="180" />
+<a href="https://github.com/diekred"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=diekred&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" align="absmiddle" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/0b16067a-8922-4d2a-9416-962218e1197b" width="160" align="absmiddle" />
+
+<br>
 
 ![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=diekred&layout=compact&langs_count=7&theme=dracula)
 
@@ -29,11 +31,13 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 ### 📩 Contatos
 
 * 📧 **E-mail:** [leonardo.diekred11@gmail.com](mailto:leonardo.diekred11@gmail.com)
-* 💬 **Discord:** `diekred`; <img src="https://github.com/user-attachments/assets/31c217cc-3e4a-4823-9210-5218f4e3a22c" width="180" />
 * 📸 **Instagram:** [@leleu.dk](https://www.instagram.com/leleu.dk)
+* 💬 **Discord:** `diekred` &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/31c217cc-3e4a-4823-9210-5218f4e3a22c" width="100" align="absmiddle" />
 
 ---
 
 ### 🐍 Meu Gráfico de Contribuições
 
-![Snake animation](https://raw.githubusercontent.com/diekred/diekred/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/diekred/diekred/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
