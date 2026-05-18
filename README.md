@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu perfil!  <img src="https://github.com/user-attachments/assets/b7f27f16-c400-42b7-b142-88dd95b1959c" width="55" />
+# Bem-vindo(a) ao meu perfil!  <img src="https://github.com/user-attachments/assets/b7f27f16-c400-42b7-b142-88dd95b1959c" width="50" />
 
 ![Gamer & Dev](https://img.shields.io/badge/Gamer%20%26%20Dev-7159c1?style=flat-square) ![Estagiário](https://img.shields.io/badge/Estagiário-0366d6?style=flat-square) ![Estudante UTFPR](https://img.shields.io/badge/Estudante_UTFPR-FFB000?style=flat-square)
 
@@ -8,7 +8,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 🎮 Meu Status na Steam
 
-<a href="https://steamcommunity.com/profiles/76561198996810331"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198996810331" alt="Steam Card" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/1ab8ef04-e985-4e21-a733-2a84e03af591" width="140" />
+<a href="https://steamcommunity.com/profiles/76561198996810331"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198996810331" alt="Steam Card" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/1ab8ef04-e985-4e21-a733-2a84e03af591" width="180" />
 
 ---
 
@@ -20,7 +20,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 📊 Minhas Estatísticas GitHub
 
-<a href="https://github.com/diekred"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=diekred&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/0b16067a-8922-4d2a-9416-962218e1197b" width="140" />
+<a href="https://github.com/diekred"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=diekred&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/0b16067a-8922-4d2a-9416-962218e1197b" width="180" />
 
 ![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=diekred&layout=compact&langs_count=7&theme=dracula)
 
