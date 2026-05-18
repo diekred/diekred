@@ -10,9 +10,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 🎮 Jogos Recentes na Steam
 
-<a href="https://steamcommunity.com/profiles/SEU_STEAM_ID_AQUI">
-  <img src="https://github-readme-steam-cards.vercel.app/api/recent-games?steamId=76561198996810331&theme=dracula" height="150" />
-</a>
+[![Steam Card](https://github-readme-steam-cards.vercel.app/api/recent-games?steamId=76561198996810331&theme=dracula)](https://steamcommunity.com/profiles/76561198996810331)
 
 ---
 
@@ -24,10 +22,8 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 📊 Minhas Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diekred&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diekred&layout=compact&langs_count=7&theme=dracula" height="150" />
-</p>
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=diekred&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=diekred&layout=compact&langs_count=7&theme=dracula)
 
 ---
 
