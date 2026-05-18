@@ -14,4 +14,4 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 🐍 Meu Gráfico de Contribuições
 
-![Snake animation](https://raw.githubusercontent.com/diekred/diekred/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/diekred/diekred/output/github-contribution-grid-snake-dark.svg)
