@@ -8,7 +8,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 🎮 Meu Status na Steam
 
-<a href="https://steamcommunity.com/profiles/76561198996810331"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198996810331" alt="Steam Card" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/e55cfc61-891b-45b0-a7cd-08d19482c7c3" width="140" />
+<a href="https://steamcommunity.com/profiles/76561198996810331"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198996810331" alt="Steam Card" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/1ab8ef04-e985-4e21-a733-2a84e03af591" width="140" />
 
 ---
 
