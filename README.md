@@ -8,18 +8,9 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 🎮 Meu Status na Steam
 
-<table>
-  <tr>
-    <td>
-      <a href="https://steamcommunity.com/profiles/76561198996810331">
-        <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198996810331" alt="Steam Card" />
-      </a>
-    </td>
-    <td valign="center">
-      <img src="https://media.giphy.com/media/L1R1TVr9WapBZpG2mK/giphy.gif" width="140" alt="Gamer Cat" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="LINK_DO_SEU_GIF_AQUI" width="140" />
+
+[![Steam Card](https://github-readme-steam-card.vercel.app/status/?steamid=76561198996810331)](https://steamcommunity.com/profiles/76561198996810331)
 
 ---
 
@@ -31,17 +22,10 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 📊 Minhas Estatísticas GitHub
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=diekred&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/>
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=diekred&layout=compact&langs_count=7&theme=dracula" alt="Top Langs" />
-    </td>
-    <td valign="center">
-      <img src="https://media.giphy.com/media/ee4jB33cfP0c0/giphy.gif" width="160" alt="Coding Cat" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="LINK_DO_SEU_GIF_AQUI" width="140" />
+
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=diekred&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=diekred&layout=compact&langs_count=7&theme=dracula)
 
 ---
 
