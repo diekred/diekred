@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/user-attachments/assets/e55cfc61-891b-45b0-a7cd-08d19482c7c3" width="140" />
+<img align="right" src="https://github.com/user-attachments/assets/b7f27f16-c400-42b7-b142-88dd95b1959c" width="140" />
 
 # Bem-vindo(a) ao meu perfil! 👋
 
@@ -8,7 +8,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ---
 
-<img align="right" src="https://github.com/user-attachments/assets/b7f27f16-c400-42b7-b142-88dd95b1959c" width="140" />
+<img align="right" src="https://github.com/user-attachments/assets/e55cfc61-891b-45b0-a7cd-08d19482c7c3" width="140" />
 
 ### 🎮 Meu Status na Steam
 
