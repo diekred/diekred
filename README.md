@@ -29,7 +29,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 ### 📩 Contatos
 
 * 📧 **E-mail:** [leonardo.diekred11@gmail.com](mailto:leonardo.diekred11@gmail.com)
-* 💬 **Discord:** `diekred`
+* 💬 **Discord:** `diekred` <img src="https://github.com/user-attachments/assets/1ab8ef04-e985-4e21-a733-2a84e03af591" width="180" />
 * 📸 **Instagram:** [@leleu.dk](https://www.instagram.com/leleu.dk)
 
 ---
