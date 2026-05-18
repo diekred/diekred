@@ -11,7 +11,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 ### 🎮 Jogos Recentes na Steam
 
 <a href="https://steamcommunity.com/profiles/SEU_STEAM_ID_AQUI">
-  <img src="https://github-readme-steam-cards.vercel.app/api/recent-games?steamId=SEU_STEAM_ID_AQUI&theme=dracula" height="150" />
+  <img src="https://github-readme-steam-cards.vercel.app/api/recent-games?steamId=76561198996810331&theme=dracula" height="150" />
 </a>
 
 ---
