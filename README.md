@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu perfil! 👋 <img src="https://github.com/user-attachments/assets/b7f27f16-c400-42b7-b142-88dd95b1959c"" width="50" />
+# Bem-vindo(a) ao meu perfil! 👋 <img src="https://github.com/user-attachments/assets/b7f27f16-c400-42b7-b142-88dd95b1959c" width="50" />
 
 ![Gamer & Dev](https://img.shields.io/badge/Gamer%20%26%20Dev-7159c1?style=flat-square) ![Estagiário](https://img.shields.io/badge/Estagiário-0366d6?style=flat-square) ![Estudante UTFPR](https://img.shields.io/badge/Estudante_UTFPR-FFB000?style=flat-square)
 
