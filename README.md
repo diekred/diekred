@@ -16,7 +16,7 @@ Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universida
 
 ### 💻 Tecnologias e Ferramentas
 
-[![Minhas Tecnologias](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
+[![Minhas Tecnologias](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,postgres)](https://skillicons.dev)
 
 ---
 
