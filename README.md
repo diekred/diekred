@@ -2,7 +2,7 @@
 
 ![Gamer & Dev](https://img.shields.io/badge/Gamer%20%26%20Dev-7159c1?style=flat-square) ![Estagiário](https://img.shields.io/badge/Estagiário-0366d6?style=flat-square) ![Estudante UTFPR](https://img.shields.io/badge/Estudante_UTFPR-FFB000?style=flat-square)
 
-Me chamo *Leonardo Ferreira Lima* e tenho 17 anos. **Sou estudante na Universidade Tecnológica Federal do Paraná, UTFPR – Campus Campo Mourão.** Estou sempre em busca de aprimorar meus conhecimentos. No meu tempo livre, adoro jogar videogame (jogo de tudo um pouco!), assistir animes e acompanhar universos como Star Wars. Sinta-se à vontade para entrar em contato pelo meu Email.
+Me chamo *Leonardo Ferreira Lima* e tenho 18 anos. **Sou estudante na Universidade Tecnológica Federal do Paraná, UTFPR – Campus Campo Mourão.** Estou sempre em busca de aprimorar meus conhecimentos. No meu tempo livre, adoro jogar videogame (jogo de tudo um pouco!), assistir animes e acompanhar universos como Star Wars. Sinta-se à vontade para entrar em contato pelo meu Email.
 
 ---
 
